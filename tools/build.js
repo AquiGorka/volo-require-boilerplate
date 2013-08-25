@@ -1,9 +1,7 @@
 {
     "appDir": "../www",
-    "baseUrl": "js/lib",
-    "paths": {
-        "app": "../app"
-    },
+    "baseUrl": "",
+    "paths": {},
     "dir": "../www-built",
     "modules": [
         {
