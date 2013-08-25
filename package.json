@@ -3,8 +3,10 @@
   "volo": {
     "baseUrl": "www/libs",
     "dependencies": {
-      "require": "github:jrburke/requirejs/2.1.8",
-      "i18n": "https://github.com/requirejs/i18n"
+      "requirejs/require": "github:jrburke/requirejs/2.1.8",
+      "requirejs/i18n": "https://github.com/requirejs/i18n",
+      "requirejs/text": "https://github.com/requirejs/text",
+      "requirejs/domReady": "https://github.com/requirejs/domReady"
     }
   }
 }

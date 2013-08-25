@@ -15,8 +15,8 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
     <link rel="logo" type="image/svg" href="https://github-media-downloads.s3.amazonaws.com/github-logo.svg" />
     <meta property="og:image" content="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png">
-    <meta name="hostname" content="fe17.rs.github.com">
-    <meta name="ruby" content="ruby 1.9.3p194-tcs-github-tcmalloc (2012-05-25, TCS patched 2012-05-27, GitHub v1.0.32) [x86_64-linux]">
+    <meta name="hostname" content="fe3.rs.github.com">
+    <meta name="ruby" content="ruby 2.0.0p247-github4 (2013-06-27) [x86_64-linux]">
     <link rel="assets" href="https://github.global.ssl.fastly.net/">
     <link rel="xhr-socket" href="/_sockets" />
     
@@ -33,7 +33,7 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="VD4ubtredRCmlBUa8y8IbgPfxWhwm3iFg1z/C1t/EaQ=" name="csrf-token" />
+<meta content="4LwGmIl0n4y800750XSUHADKk9R58L/XsTptozlJ6d8=" name="csrf-token" />
 
     <link href="https://github.global.ssl.fastly.net/assets/github-e4602892df924f8f230b44ddccd223303a30c009.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://github.global.ssl.fastly.net/assets/github2-8230ebbc9c20ca36d6a93a15aa009fef0d31b37f.css" media="all" rel="stylesheet" type="text/css" />
@@ -632,7 +632,7 @@ up until the requirejs 2.0 release.</p></article>
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2013 <span title="0.05531s from fe17.rs.github.com">GitHub</span>, Inc.</li>
+      <li>&copy; 2013 <span title="0.29248s from fe3.rs.github.com">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
