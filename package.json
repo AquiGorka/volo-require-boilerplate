@@ -4,9 +4,9 @@
     "baseUrl": "www/libs",
     "dependencies": {
       "requirejs/require": "github:jrburke/requirejs/2.1.8",
-      "requirejs/i18n": "https://github.com/requirejs/i18n",
-      "requirejs/text": "https://github.com/requirejs/text",
-      "requirejs/domReady": "https://github.com/requirejs/domReady"
+      "requirejs/text": "github:requirejs/text/2.0.10",
+      "requirejs/i18n": "github:requirejs/i18n/2.0.4",
+      "requirejs/domReady": "github:requirejs/domReady/2.0.1"
     }
   }
 }

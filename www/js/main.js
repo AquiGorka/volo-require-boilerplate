@@ -8,4 +8,4 @@ requirejs.config({
 
 });
 
-requirejs(['domReady!', 'js/app']);
+requirejs(['js/app']);
